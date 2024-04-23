@@ -1,2 +1,5 @@
 .env
 package.json
+venv/
+chat_history.db
+.DS_Store
